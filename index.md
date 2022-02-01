@@ -9,9 +9,9 @@
 
 我的Kaggle项目
 * Ubiquant Market Prediction
-https://www.kaggle.com/c/ubiquant-market-predictio
+  https://www.kaggle.com/c/ubiquant-market-predictio
 * Jane Street Market Prediction
-https://www.kaggle.com/c/jane-street-market-prediction
+  https://www.kaggle.com/c/jane-street-market-prediction
 
 
 
