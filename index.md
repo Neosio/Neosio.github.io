@@ -5,10 +5,10 @@
 
 量化交易就是做2个σ以内最正确的事，同时控制2个σ以外的风险
 
-quant Journals
-1. Journal of Financial and Quantitative Analysis (JFQA)
-2. Risk
-3. Mathematical Finance
+Quant Journals & Information
+* [Journal of Financial and Quantitative Analysis (JFQA)](https://jfqa.org)
+* Mathematical Finance
+* AQR
 
 我的Kaggle项目
 * Ubiquant Market Prediction
@@ -16,6 +16,6 @@ quant Journals
 * Jane Street Market Prediction
   https://www.kaggle.com/c/jane-street-market-prediction
 
-
+[菜鸟教程](https://www.runoob.com)
 
 
