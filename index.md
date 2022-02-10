@@ -16,6 +16,4 @@ Quant Journals & Information
 * Jane Street Market Prediction
   https://www.kaggle.com/c/jane-street-market-prediction
 
-[菜鸟教程](https://www.runoob.com)
-
 
